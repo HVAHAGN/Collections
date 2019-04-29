@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace Collections.UserColl
+namespace InterIEnumerable.UserColl
 {
     // Класс CollectionUser коллекция (набор) объектов класса Element.
     // Для применения foreach, необходимо, чтобы класс реализовывал интерфейс - IEnumerable.Реализация интерфейса IEnumerator.

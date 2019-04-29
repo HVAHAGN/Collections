@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace Collections.UserColl
+namespace InterIEnumerable.UserColl
 {
     // Экземпляры этого класса будет содержать коллекция - UserCollection. 
     public class Element
