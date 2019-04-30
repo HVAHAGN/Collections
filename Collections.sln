@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterIEnumerable", "Collect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Yield", "001_Yield\001_Yield.csproj", "{1E41CC7B-E715-4DAC-914A-7073883C1528}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Yield", "002_Yield\002_Yield.csproj", "{C0D6844E-096B-4960-8FE2-093752D80410}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1E41CC7B-E715-4DAC-914A-7073883C1528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E41CC7B-E715-4DAC-914A-7073883C1528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E41CC7B-E715-4DAC-914A-7073883C1528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D6844E-096B-4960-8FE2-093752D80410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D6844E-096B-4960-8FE2-093752D80410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D6844E-096B-4960-8FE2-093752D80410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D6844E-096B-4960-8FE2-093752D80410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
