@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Yield", "002_Yield\002_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-Yeild", "003-Yeild\003-Yeild.csproj", "{54DB8794-D344-4C06-AA79-ED6B9E62CF9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Yield", "004_Yield\004_Yield.csproj", "{F79D163B-4793-4FA2-AC1E-BAE5859068D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{54DB8794-D344-4C06-AA79-ED6B9E62CF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DB8794-D344-4C06-AA79-ED6B9E62CF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DB8794-D344-4C06-AA79-ED6B9E62CF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79D163B-4793-4FA2-AC1E-BAE5859068D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79D163B-4793-4FA2-AC1E-BAE5859068D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79D163B-4793-4FA2-AC1E-BAE5859068D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79D163B-4793-4FA2-AC1E-BAE5859068D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
