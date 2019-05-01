@@ -12,9 +12,10 @@ namespace _006_Yield
         {
             foreach (string element in UserCollection.Power())
                 Console.WriteLine(element);
-                       
+
             // Delay. 
             Console.ReadKey();
         }
+    }
 }
 
